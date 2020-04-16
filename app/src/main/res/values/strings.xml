@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CoronaOutsideDelimiter</string>
+    <string name="allowGPS">Please enable GPS</string>
+    <string name="allowGPSTitle">GPS error</string>
+    <string name="outOfAllowedRange">Be careful !  You seems to be out of the allowed range !</string>
+
 </resources>
